@@ -3,13 +3,6 @@
 A machine learning web app that classifies news articles as **Real** or **Fake** using TF-IDF vectorization and Logistic Regression, deployed with Streamlit.
 
 
-## Demo
-
-![Fake News Classifier Demo](assets/fakenewsscreenrecord.mp4)
-
-Enter any news article text into the app, and it predicts whether the article is likely real or fake news.
-
-
 ## Project Structure
 
 ```
